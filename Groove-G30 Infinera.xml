@@ -4,17 +4,17 @@
     <date>2019-11-27T21:41:24Z</date>
     <groups>
         <group>
-            <name>Groove-Tely</name>
+            <name>Groove-G30-Infinera</name>
         </group>
     </groups>
     <templates>
         <template>
-            <template>Groove-G30 Infinera</template>
-            <name>Groove-G30 Infinera</name>
+            <template>Groove-G30-Infinera</template>
+            <name>Groove-G30-Infinera</name>
             <description/>
             <groups>
                 <group>
-                    <name>Groove-Tely</name>
+                    <name>Groove-G30-Infinera</name>
                 </group>
             </groups>
             <applications>
@@ -162,7 +162,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>ochOsPreFecBer[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -364,7 +364,7 @@ omsRxOpticalPower {#MACRO3}</description>
                                     <calc_fnc>1</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>omsTxOpticalPower[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -376,7 +376,7 @@ omsRxOpticalPower {#MACRO3}</description>
                                     <calc_fnc>4</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>omsRxOpticalPower[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -691,7 +691,7 @@ osnrMax - {#MACRO4}</description>
                                     <calc_fnc>7</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>osnrInstant[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -703,7 +703,7 @@ osnrMax - {#MACRO4}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>osnrAvg[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -715,7 +715,7 @@ osnrMax - {#MACRO4}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>osnrMax[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -727,7 +727,7 @@ osnrMax - {#MACRO4}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>osnrMin[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -937,7 +937,7 @@ portTxOpticalPower {#MACRO3}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>PortTxOpticalPower[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -949,7 +949,7 @@ portTxOpticalPower {#MACRO3}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>PortRxOpticalPower[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -1264,7 +1264,7 @@ qFactorMax {#MACRO4}</description>
                                     <calc_fnc>7</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>qFactorAvg[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -1276,7 +1276,7 @@ qFactorMax {#MACRO4}</description>
                                     <calc_fnc>4</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>qFactorInstant[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -1288,7 +1288,7 @@ qFactorMax {#MACRO4}</description>
                                     <calc_fnc>7</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>qFactorMax[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -1300,7 +1300,7 @@ qFactorMax {#MACRO4}</description>
                                     <calc_fnc>7</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>qFactorMin[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -1501,7 +1501,7 @@ qFactorMax {#MACRO4}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>shelfInletTemperature[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
@@ -1513,7 +1513,7 @@ qFactorMax {#MACRO4}</description>
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Groove-G30 Infinera</host>
+                                        <host>Groove-G30-Infinera</host>
                                         <key>shelfOutletTemperature[{#SNMPINDEX}]</key>
                                     </item>
                                 </graph_item>
